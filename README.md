@@ -1,1 +1,1 @@
-# HTML and Javascript code for ToDoList
+# HTML and Javascript code for ToDoList.
